@@ -1,0 +1,21 @@
+{
+  "name": "WacDoc WYSIWYG plugin",
+  "authors": [
+    "tralaladidou <lucas.strubi@gmail.com>"
+  ],
+  "description": "a WYSIWYG plugin made for WacDoc project",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#^0.97.6",
+    "jspdf": "^1.2.61"
+  }
+}
